@@ -114,3 +114,8 @@ ol li {
 #firstP {
       font-weight: bold;
 }
+
+figure {
+      float: left;
+      margin: 40px;
+}
