@@ -16,12 +16,12 @@ header h1 {
 p {
       font-family: 'Georgia';
       line-height: 125%;
-      font-size: 18px;
+      font-size: 20px;
       color: #0c2461;
 }
 
 ul, ol, table {
-      font-size: 18px;
+      font-size: 20px;
 }
 
 a {
@@ -43,6 +43,7 @@ blockquote {
       background-color: #ddd;
       border-left: 3px solid #842E1B;
       padding: 80px 0 80px 30px;
+      font-style: italic;
 }
 
 blockquote p {
@@ -50,7 +51,7 @@ blockquote p {
 }
 
 q {
-
+      font-style: italic;
 }
 
 .villagers{
