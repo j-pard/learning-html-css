@@ -9,6 +9,10 @@ body {
       background-size: cover;
 }
 
+header h1 {
+      background-color: #fad390;
+}
+
 p {
       font-family: 'Georgia';
       line-height: 125%;
@@ -43,4 +47,18 @@ blockquote {
 
 blockquote p {
       font-size: 160%;
+}
+
+q {
+
+}
+
+.villagers{
+      border-left: 2px solid #78e08f;
+      padding-left: 5px;
+}
+
+.farmer {
+      border-left: 2px solid #fa983a;
+      padding-left: 5px;
 }
