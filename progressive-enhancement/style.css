@@ -20,6 +20,10 @@ p {
       color: #0c2461;
 }
 
+p:first-of-type {
+      font-weight: bold;
+}
+
 ul, ol, table {
       font-size: 20px;
 }
@@ -62,4 +66,51 @@ q {
 .farmer {
       border-left: 2px solid #fa983a;
       padding-left: 5px;
+}
+
+.bien, .mal {
+      text-transform: uppercase;
+}
+
+.mal {
+      color: red;
+}
+
+.bien {
+      color: green;
+}
+
+table {
+      border: 1px solid gray;
+}
+
+table tr:nth-child(odd) {
+      background-color: #fff;
+}
+
+table tr:nth-child(even) {
+      background-color: #bbb;
+}
+
+ol li:first-child{
+      background-image: url("bien.png");
+}
+
+ol li:nth-child(2){
+      background-image: url("mal.png");
+}
+
+ol li:nth-child(3){
+      background-image: url("chat.png");
+}
+
+ol {
+      
+}
+
+ol li {
+      background-size: contain;
+      background-position: right;
+      background-repeat: no-repeat;
+      padding-right: 200px;
 }
