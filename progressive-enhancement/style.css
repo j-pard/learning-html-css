@@ -1,0 +1,19 @@
+p {
+      font-family: 'Georgia';
+      line-height: 125%;
+      font-size: 18px;
+      color: #0c2461;
+}
+
+a {
+      color: #4a69bd;
+}
+
+a:hover, a:visited:hover{
+      color: #b71540;
+      font-size: 20px;
+}
+
+a:visited {
+      color: #3c6382;
+}
