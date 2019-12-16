@@ -1,8 +1,23 @@
+body {
+      max-width: 90%;
+      margin: 0 auto;      
+      background: -webkit-linear-gradient(90deg, rgb(201, 201, 201), rgb(177, 206, 180));
+      background: linear-gradient(90deg, rgb(201, 201, 201), rgb(177, 206, 180));
+      background-image: url("chinese-bg.jpg");
+      background-repeat: no-repeat;
+      background-position: bottom right;
+      background-size: cover;
+}
+
 p {
       font-family: 'Georgia';
       line-height: 125%;
       font-size: 18px;
       color: #0c2461;
+}
+
+ul, ol, table {
+      font-size: 18px;
 }
 
 a {
@@ -16,4 +31,16 @@ a:hover, a:visited:hover{
 
 a:visited {
       color: #3c6382;
+}
+
+blockquote {
+      width: 50%;
+      margin: 0 auto;
+      background-color: #ddd;
+      border-left: 3px solid #842E1B;
+      padding: 80px 0 80px 30px;
+}
+
+blockquote p {
+      font-size: 160%;
 }
