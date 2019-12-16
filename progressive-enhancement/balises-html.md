@@ -1,5 +1,5 @@
-h1
-h2
+h1 : Heading 1 - Titre 1
+h2 : Heading 2 - Titre 2
 
 ---------------
 
@@ -24,7 +24,15 @@ hr : L'élément HTML <hr> représente un changement thématique entre des élé
 figure : L'élément HTML <figure> représente une figure (un schéma), qui peut être accompagné d'une légende grâce à l'élément <figcaption>. Il est normalement référencé de manière unique. C'est souvent une image, une illustration, un diagramme, un fragment de code ou un schéma auquel il est fait référence dans le texte principal mais qui peut être utilisé sur une autre page ou dans une annexe sans que cela affecte le contenu principal.
 https://developer.mozilla.org/fr/docs/Web/HTML/Element/figure
 
-img
+img : permet de représenter une image dans un document. Cet élément est un élément remplacé.
+https://developer.mozilla.org/fr/docs/Web/HTML/Element/Img
+
+img alt :Il sert à apporter la même information que l’image (en général le texte qu’elle porte) dans le code de la page. Le but de ce report d’information est que celle-ci reste disponible lorsque l’image ne peut être chargée (à cause d’une surcharge de serveur ou d’un problème de connexion...) ou qu'elle ne peut être vue (par un robot de moteur de recherche ou un utilisateur de lecteur d’écran...).
+https://www.alsacreations.com/astuce/lire/1166-alt-title-images-liens.html
+
+img title : peut être utilisé sur les liens, pour apporter une information nécessaire à la bonne navigation du visiteur et supplémentaire à l'intitulé du lien. C'est un attribut facultatif, et très rarement nécessaire. Un title reprenant à l'identique l’intitulé du lien est totalement inutile et redondant. Il ne doit pas être utilisé sur les images (sauf cas extrêmement spécifiques).
+https://www.alsacreations.com/astuce/lire/1166-alt-title-images-liens.html
+
 
 ---------------
 
@@ -47,5 +55,8 @@ https://developer.mozilla.org/fr/docs/Web/HTML/Element/td
 ul : L'élément HTML <ul> représente une liste d'éléments sans ordre particulier. Il est souvent représenté par une liste à puces.
 https://developer.mozilla.org/fr/docs/Web/HTML/Element/ul
 
-ol
-li
+ol : représente une liste ordonnée. Les éléments d'une telle liste sont généralement affichés avec un indicateur ordinal pouvant prendre la forme de nombres, de lettres, de chiffres romains ou de points.
+https://developer.mozilla.org/fr/docs/Web/HTML/Element/ol
+
+li : Element d'une liste
+https://developer.mozilla.org/fr/docs/Web/HTML/Element/li
