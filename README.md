@@ -8,16 +8,18 @@ Progressive enhancement :
 
 
 * 16 December 2019
-  * First challenge : _progessive-enhancement_
+  * progessive-enhancement : _Le paysan chinois_
     * HTML
     * CSS: Concept 1
     * CSS: Concept 2
     * CSS: Concept 3 + External training  
-[x] _Work validated and push on master branch_
+    * [x] _Work validated and push on master branch_
 
 * 17 December 2019
-  *  First challenge : _progessive-enhancement_
+  *  progessive-enhancement : _Le paysan chinois_
      *  Finalisation
-     *  W3C validation [x]
+     *  [x] W3C validation
      *  Hosted by github
-     *  Turlututu - Finished
+  *  Turlututu - Finished
+     *  [x] W3C validation
+  *  Améliorer sa typographie - Finished
