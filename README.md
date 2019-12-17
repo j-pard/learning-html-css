@@ -3,7 +3,7 @@
 Webpage global : [Folder - Learning HTML & CSS](https://j-pard.github.io/learning-html-css/)  
 
 Progressive enhancement :
-| [Le paysan chinois](https://j-pard.github.io/learning-html-css/progressive-enhancement/le-paysan-chinois/le-paysan-chinois.html) |
+| [Le paysan chinois](https://github.com/j-pard/learning-html-css/tree/master/progressive-enhancement/le-paysan-chinois) |
 | ---- |
 
 
