@@ -1,0 +1,259 @@
+* {
+      padding: 0;
+      margin: 0;
+      list-style: none;
+}
+
+html, body {
+      width: 100%;
+      overflow-x: hidden;
+}
+
+a {
+      text-decoration: none;
+      color: #fff;
+}
+
+a:visited {
+      text-decoration: none;
+      color: #fff;
+}
+
+button {
+      font-size: 22px;
+}
+
+.btn-orange {
+      background-color: #E99002;
+      color: #fff;
+      padding: 15px;
+      border: 2px solid #fff;
+      border-radius: 10px;
+      font-weight: bold;
+}
+
+.btn-blue {
+      background-color: #165882;
+      color: #fff;
+      padding: 15px;
+      border: 2px solid #fff;
+      border-radius: 10px;
+      font-weight: bold;
+}
+
+.blur {
+      filter: blur(4px);
+}
+
+/* -------------------- NAV -------------------- */
+
+nav {
+      background-color: #333;
+      color: #fff;
+      width: 100%;
+      height: auto;
+      padding: 10px;
+
+      font-size: 18px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: baseline;
+}
+
+nav ul {
+      margin-left: 100px;
+}
+nav ul li {
+      display: inline-block;
+      padding: 0 10px;
+}
+nav ul li img {
+       height: 20px;
+}
+
+/* -------------------- HEADER -------------------- */
+
+header {
+      
+}
+
+#login-btn {
+      margin-right: 150px;
+}
+
+#login-btn i {
+      margin-right: 10px;
+}
+
+header #section-top {
+      text-align: center;
+      color: #fff;
+
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: space-around;
+      align-items: center;
+}
+
+.section-blue {
+      background-color: #1E93CC;
+}
+
+header section aside {
+      width: 300px;
+      height: 300px;
+}
+
+header section aside figure img {
+      width: 300px;
+}
+
+header h1 {
+      font-size: 50px;
+      margin-top: 10px;
+}
+
+header h1 img {
+      height: 40px;
+}
+
+header h2 {
+      margin: 20px auto;
+      font-weight: normal;
+}
+
+/* -------------------- MAIN -------------------- */
+
+.inter {
+      text-align: center;
+      font-size: 24px;
+      margin: 15px;
+      color: #444;
+}
+
+#section-mid {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      flex-wrap: wrap;
+}
+
+#section-mid {
+      padding: 50px 50px;
+}
+
+#section-mid article {
+      width: 45%;
+      color: #fff;
+}
+
+h2 {
+      font-weight: normal;
+      font-size: 30px;
+      margin: 20px 0 10px 0;
+}
+
+main section h2::before {
+      content: "> ";
+      font-size: 25px;
+}
+
+#section-mid-bottom {
+      background-color: #eee;
+      padding: 30px 0;
+}
+
+#logo-topline {
+      width: 70%;
+      margin: 20px auto;
+      height: auto;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      flex-wrap: wrap;
+}
+
+#logo-topline img {
+      width: auto;
+      height: 50px;
+      margin: 0 10px;
+}
+
+#logo-botline {
+      width: 100%;
+      text-align: center;
+}
+
+#logo-botline img {
+      width: auto;
+      height: 80px;
+}
+
+#section-bottom {
+      margin: 50px auto;
+      text-align: center;
+}
+/* -------------------- FOOTER -------------------- */
+
+footer {
+      background-color: #222;
+      color: #fff;
+      font-size: 18px;
+}
+
+footer nav {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: baseline;
+      background-color: #222;
+}
+
+footer nav ul {
+      margin-left: 10px;
+}
+
+footer nav ul li {
+      display: inline-block;
+      padding: 0 10px;
+      border-left: 1px dashed #fff;
+}
+
+footer nav ul li:first-child {
+      border: none;
+}
+
+footer nav ul li img {
+       height: 20px;
+}
+
+footer nav p {
+      padding-right: 30px;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 900px) {
+      header ul {
+            margin-left: 0;
+      }
+      
+      #login-btn {
+            margin-right: 20px;
+      }
+
+      #section-mid {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+      }
+
+      #section-mid article {
+            width: 80%;
+      }
+}
