@@ -3,8 +3,8 @@
 Webpage global : [Folder - Learning HTML & CSS](https://j-pard.github.io/learning-html-css/)  
 
 Progressive enhancement :
-| [Le paysan chinois](https://github.com/j-pard/learning-html-css/tree/master/progressive-enhancement/le-paysan-chinois) |
-| ---- |
+| [Le paysan chinois](https://github.com/j-pard/learning-html-css/tree/master/progressive-enhancement/le-paysan-chinois) | [Turlututu](https://github.com/j-pard/learning-html-css/tree/master/progressive-enhancement/turlututu) |
+| ---- | ---- |
 
 
 * 16 December 2019
