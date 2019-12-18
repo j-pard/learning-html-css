@@ -1,0 +1,82 @@
+body {
+      font-family: 'Roboto', Helvetica, sans-serif;
+      font-size: 22px;
+      line-height: 26px;
+      width: 100%;
+      overflow-x: hidden;
+}
+
+header {
+      width: 50%;
+      margin: 0 auto;
+      text-align: justify;
+}
+
+header blockquote p {
+      text-align: left;
+      margin-top: 0;
+}
+
+main {
+      width: 50%;
+      margin: 0 auto;
+}
+
+blockquote {
+      font-size: 12px;
+      margin: 50px auto;
+}
+
+blockquote p {
+      text-align: center;
+      margin-top: 10px;
+}
+
+p {
+      text-align: left;
+} 
+
+figure {
+      width: 100%;
+      margin-left: 0;
+}
+
+figcaption {
+      font-size: 16px;
+      margin-top: 10px;
+      font-style: italic;
+}
+
+h1 {
+      font-size: 48px;
+      line-height: 51px;
+}
+
+h2 {
+      font-size: 36px;
+      margin-top: 50px;
+}
+
+h3 {
+      font-size: 28px;
+      color: #333;
+}
+
+article {
+      border-bottom: 1px solid gray;
+}
+a {
+      text-decoration: underline;
+      color: black;
+
+      transition: all 0.3s;
+}
+
+a:visited{
+      text-decoration: underline;
+      color: black;
+}
+
+a:hover {
+      font-size: 110%;
+}
