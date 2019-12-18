@@ -31,3 +31,9 @@ Progressive enhancement :
   * progessive-enhancement : _Guide typographie_
     * Done with previous template
     *  [x] W3C validation
+  * progessive-enhancement : _Active Collab_
+    * HTML done (1.0) 
+    * [x] W3C validation
+    * CSS minimum
+
+!!! END OF SPRINT DELAY !!!
