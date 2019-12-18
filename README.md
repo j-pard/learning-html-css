@@ -19,7 +19,15 @@ Progressive enhancement :
      *  Finalisation
      *  [x] W3C validation
      *  Hosted by github
-  *  Turlututu - Finished
+  *  progessive-enhancement : _Turlututu_
+     *  HTML + CSS
      *  [x] W3C validation
-  *  Améliorer sa typographie - Finished
+  *  progessive-enhancement : _Améliorer sa typographie_
+     *  HTML + CSS
+     *  Adapt for template use
      *  [x] W3C validation
+
+* 18 December 2019
+  * progessive-enhancement : _Guide typographie_
+    * Done with previous template
+    *  [x] W3C validation
