@@ -4,7 +4,7 @@ Webpage global : [Folder - Learning HTML & CSS](https://j-pard.github.io/learnin
 
 Exercices links:
 [Le paysan chinois](https://github.com/j-pard/learning-html-css/tree/master/progressive-enhancement/le-paysan-chinois) | [Turlututu](https://github.com/j-pard/learning-html-css/tree/master/progressive-enhancement/turlututu) | [Améliorer sa typographie](https://github.com/j-pard/learning-html-css/tree/master/progressive-enhancement/doc-ameliorer-sa-typo) | [Guide typographie](https://github.com/j-pard/learning-html-css/tree/master/progressive-enhancement/doc-guide-typo) | [Tim Berners-Lee](https://github.com/j-pard/learning-html-css/tree/master/tim-berners-lee)
----------------- | ---------------- | ---------------- | ---------------- | ---------------- 
+
 
 * 16 December 2019
   * progessive-enhancement : _Le paysan chinois_
@@ -44,3 +44,8 @@ _!!! END OF SPRINT DELAY !!!_
     * Responsive 
     * Using Flexbox 
     * [x] W3C validation
+    
+* 30 December 2019
+  * progessive-enhancement : _Active Collab_
+    * SASS Ported on "sass" branch & mergee on "master" branch
+    * Increased responsivity
