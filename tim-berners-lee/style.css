@@ -147,7 +147,7 @@ body main section:last-child article {
       text-align: justify;
 }
 
-
+/* -------------------- MEDIA QUERIES -------------------- */
 
 @media only screen and (max-width: 900px) {
       body {
